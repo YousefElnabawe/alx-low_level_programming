@@ -17,7 +17,7 @@ int main(void)
 		printf("%i", digit);
 		digit++;
 	}
-	print("\n");
+	printf("\n");
 
 	return (0);
 }
